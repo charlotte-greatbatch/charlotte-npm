@@ -1,0 +1,22 @@
+{
+  "name": "charlotte-npm",
+  "version": "1.0.0",
+  "description": "Making sure I can do npm properly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlotte-greatbatch/charlotte-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlotte-greatbatch/charlotte-npm/issues"
+  },
+  "homepage": "https://github.com/charlotte-greatbatch/charlotte-npm#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
